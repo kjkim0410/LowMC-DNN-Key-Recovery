@@ -1,0 +1,5 @@
+campaign,trials,success,seconds,rk1_success,max_master_hd,activation_nodes_per_trial,direct_wires_per_trial
+equivalence,10,10,2.9173,,,,
+activation_recovery,10,10,0.186,10,0,256,0
+equivalence,1000,1000,291.0567,,,,
+activation_recovery,1000,1000,11.8603,1000,0,256,0

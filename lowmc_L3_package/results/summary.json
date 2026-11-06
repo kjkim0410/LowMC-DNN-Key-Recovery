@@ -1,0 +1,34 @@
+[
+  {
+    "campaign": "equivalence",
+    "trials": 10,
+    "success": 10,
+    "seconds": 9.581
+  },
+  {
+    "campaign": "activation_recovery",
+    "trials": 10,
+    "rk1_success": 10,
+    "success": 10,
+    "max_master_hd": 0,
+    "seconds": 0.3526,
+    "activation_nodes_per_trial": 384,
+    "direct_wires_per_trial": 0
+  },
+  {
+    "campaign": "equivalence",
+    "trials": 1000,
+    "success": 1000,
+    "seconds": 964.0987
+  },
+  {
+    "campaign": "activation_recovery",
+    "trials": 1000,
+    "rk1_success": 1000,
+    "success": 1000,
+    "max_master_hd": 0,
+    "seconds": 26.1698,
+    "activation_nodes_per_trial": 384,
+    "direct_wires_per_trial": 0
+  }
+]
